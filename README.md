@@ -1,7 +1,7 @@
 # Game of Life
 A python implementation of Conway's Game of Life.
 
-Clone or download the repository, and execute the main.py file. You can play changing the parameters of the Game class, and you can either change the rules in the rules.json file, where the first number of the key is the state of the cell, and the sencond one is the number of living cells in the neighborhood. By default the rules are set to the original 23/3.
+Clone or download the repository and run the main.py file. You can play by changing the parameters of the Game class, or changing the game rules in the rules.json file, where the first key number is the cell state and the second is the number of living cells in the neighborhood. By default the rules are set to the original 23/3.
 
 The state of the game can be seen in the figure below
 <div>
