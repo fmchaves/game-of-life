@@ -1,2 +1,4 @@
-# game-of-life
-A python implementation of Conway's Game of Life
+# Game of Life
+A python implementation of Conway's Game of Life.
+
+Execute the main
