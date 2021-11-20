@@ -5,7 +5,8 @@ Clone or download the repository, and execute the main.py file. You can play cha
 
 The state of the game can be seen in the figure below
 <div>
-  <img src="images/Figure_2.png" width="40%">
+<img src="images/Figure_1.png" width="30%">
+<img src="images/Figure_2.png" width="30%">
 </div>
 
 The next figures are different states of the game for the rule 12345/3
